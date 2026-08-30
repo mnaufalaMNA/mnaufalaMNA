@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mnaufalaMNA/mnaufalaMNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌌 M Naufal Amrullah
+### *Creator • Developer • Digital Explorer*
 
-Here are some ideas to get you started:
+> *"Menempa ide di antara sunyi, merajut masa depan di balik baris kode & semesta logika."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Official Website](https://img.shields.io/badge/Official%20Hub-Live%20Portal-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnaufalamna.github.io/mnaufala/)
+[![Universal Gateway](https://img.shields.io/badge/Bio%20Gateway-Bitly-f59e0b?style=for-the-badge&logo=bitly&logoColor=white)](https://bit.ly/m/MNaufalA)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@mnaufalamna-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mnaufalamna)
+[![Roblox Profile](https://img.shields.io/badge/Roblox-Official%20Profile-0284c7?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/share?code=3b2075535122cb47814b7bbaf1153723&type=Profile)
+
+</div>
+
+---
+
+### 🌐 Ekosistem & Jaringan Resmi Terverifikasi
+
+| Kategori | Platform | Tautan Akses Langsung |
+| :--- | :--- | :--- |
+| 🌐 **Portal Utama** | **Official Web Ecosystem** | [mnaufalamna.github.io/mnaufala](https://mnaufalamna.github.io/mnaufala/) |
+| ⚡ **Gerbang Bio** | **Bitly Universal Gateway** | [bit.ly/m/MNaufalA](https://bit.ly/m/MNaufalA) |
+| 💻 **Repositori** | **Ecosystem Hub Codebase** | [mnaufalaMNA/mnaufala](https://github.com/mnaufalaMNA/mnaufala) |
+| 🎥 **Video & Stream**| **YouTube Official Channel** | [@mnaufalamna](https://www.youtube.com/@mnaufalamna) |
+| 🎮 **Metaverse** | **Roblox Official Profile** | [Roblox Profile](https://www.roblox.com/share?code=3b2075535122cb47814b7bbaf1153723&type=Profile) |
+| 📸 **Foto & Cerita** | **Instagram Official** | [@mnaufala_mna](https://www.instagram.com/mnaufala_mna/) |
+| 🎵 **Video Pendek** | **TikTok Official** | [@oneberry.mnaufala](https://www.tiktok.com/@oneberry.mnaufala) |
+| 🐦 **Wawasan & Opini**| **X (Twitter) Official** | [@oneberry_mna](https://x.com/oneberry_mna) |
+| 🧵 **Diskusi Komunitas**| **Threads Meta** | [@mnaufala_mna](https://www.threads.net/@mnaufala_mna) |
+| 👥 **Sosial Media 1** | **Facebook Official Profile** | [facebook.com/share/1HdLijComv](https://facebook.com/share/1HdLijComv) |
+| 👥 **Sosial Media 2** | **Facebook Alternate Channel**| [facebook.com/share/19v4QgccfR](https://facebook.com/share/19v4QgccfR) |
+| 📑 **Google Portfolio**| **Google Sites Portfolio** | [sites.google.com/view/mnaufala/mnaufala](https://sites.google.com/view/mnaufala/mnaufala) |
+| 🏠 **Google Beranda** | **Google Sites Beranda** | [sites.google.com/view/mnaufalmna/beranda](https://sites.google.com/view/mnaufalmna/beranda) |
+| 🎁 **Gaming Rewards** | **SkinApe VIP Invite** | [join.skinape.com/731FMAIA](https://join.skinape.com/731FMAIA) `(Code: 731FMAIA)` |
+
+---
+
+### 💻 Stack Teknologi & Arsitektur Ekosistem
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Hosting-222222?style=flat-square&logo=github&logoColor=white)
+![Web Audio API](https://img.shields.io/badge/Web%20Audio-Synthesizer-10b981?style=flat-square&logo=soundcharts&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Statistik Profil GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mnaufalaMNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub M Naufal Amrullah" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnaufalaMNA&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnaufalaMNA&theme=tokyonight&hide_border=true" alt="Streak Statistik GitHub" width="97%" />
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Diukir dengan dedikasi & gairah tanpa batas • Dari imajinasi menuju keabadian.*<br/>
+© 2026 **M Naufal Amrullah** • Seluruh Hak Cipta Dilindungi.
+
+</div>
