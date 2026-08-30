@@ -53,21 +53,6 @@
 
 ---
 
-### 📊 Statistik Profil GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mnaufalaMNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub M Naufal Amrullah" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnaufalaMNA&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mnaufalaMNA&theme=tokyonight&hide_border=true" alt="Streak Statistik GitHub" width="97%" />
-
-</div>
-
----
-
 <div align="center">
 
 ✨ *Diukir dengan dedikasi & gairah tanpa batas • Dari imajinasi menuju keabadian.*<br/>
