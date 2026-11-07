@@ -10,7 +10,6 @@
 [![Official Website](https://img.shields.io/badge/Official%20Hub-Live%20Portal-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnaufalamna.github.io/mnaufala/)
 [![Universal Gateway](https://img.shields.io/badge/Bio%20Gateway-Bitly-f59e0b?style=for-the-badge&logo=bitly&logoColor=white)](https://bit.ly/m/MNaufalA)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-@mnaufalamna-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mnaufalamna)
-[![Roblox Profile](https://img.shields.io/badge/Roblox-Official%20Profile-0284c7?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/share?code=3b2075535122cb47814b7bbaf1153723&type=Profile)
 
 </div>
 
