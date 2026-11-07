@@ -23,7 +23,6 @@
 | ⚡ **Gerbang Bio** | **Bitly Universal Gateway** | [bit.ly/m/MNaufalA](https://bit.ly/m/MNaufalA) |
 | 💻 **Repositori** | **Ecosystem Hub Codebase** | [mnaufalaMNA/mnaufala](https://github.com/mnaufalaMNA/mnaufala) |
 | 🎥 **Video & Stream**| **YouTube Official Channel** | [@mnaufalamna](https://www.youtube.com/@mnaufalamna) |
-| 🎮 **Metaverse** | **Roblox Official Profile** | [Roblox Profile](https://www.roblox.com/share?code=3b2075535122cb47814b7bbaf1153723&type=Profile) |
 | 📸 **Foto & Cerita** | **Instagram Official** | [@mnaufala_mna](https://www.instagram.com/mnaufala_mna/) |
 | 🎵 **Video Pendek** | **TikTok Official** | [@oneberry.mnaufala](https://www.tiktok.com/@oneberry.mnaufala) |
 | 🐦 **Wawasan & Opini**| **X (Twitter) Official** | [@oneberry_mna](https://x.com/oneberry_mna) |
@@ -32,8 +31,6 @@
 | 👥 **Sosial Media 2** | **Facebook Alternate Channel**| [facebook.com/share/19v4QgccfR](https://facebook.com/share/19v4QgccfR) |
 | 📑 **Google Portfolio**| **Google Sites Portfolio** | [sites.google.com/view/mnaufala/mnaufala](https://sites.google.com/view/mnaufala/mnaufala) |
 | 🏠 **Google Beranda** | **Google Sites Beranda** | [sites.google.com/view/mnaufalmna/beranda](https://sites.google.com/view/mnaufalmna/beranda) |
-| 🎁 **Gaming Rewards** | **SkinApe VIP Invite** | [join.skinape.com/731FMAIA](https://join.skinape.com/731FMAIA) `(Code: 731FMAIA)` |
-
 ---
 
 ### 💻 Stack Teknologi & Arsitektur Ekosistem
