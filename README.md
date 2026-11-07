@@ -1,57 +1,109 @@
 <div align="center">
 
-# 🌌 M Naufal Amrullah
-### *Creator • Developer • Digital Explorer*
+# 🌌 M NAUFAL AMRULLAH
+### ✦ Official Global Ecosystem & Central Gateway Hub ✦
+
+<!-- Dynamic Typing Animation SVG Header -->
+<a href="https://mnaufalamna.github.io/mnaufala/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=620&height=90&lines=M+NAUFAL+AMRULLAH;Software+Architect+%7C+Creative+Technologist;%40mnaufala+%E2%80%A2+%40mnaufala_mna+%E2%80%A2+mnaufalaMNA;Official+Global+Web+%26+Mobile+Ecosystem" alt="Typing Animation Header" />
+</a>
+
+<br/>
+
+<!-- Live Status Badges -->
+[![Portal Live](https://img.shields.io/badge/⚡%20LIVE%20PORTAL-mnaufalamna.github.io%2Fmnaufala-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://mnaufalamna.github.io/mnaufala/)
+[![Universal Link](https://img.shields.io/badge/🔗%20BIO%20GATEWAY-bit.ly%2Fm%2FMNaufalA-f59e0b?style=for-the-badge&logo=linkfire&logoColor=white)](https://bit.ly/m/MNaufalA)
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-100%25%20Operational-34d399?style=flat-square&logo=statuspage&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Google%20Index-Verified%20%E2%9C%85-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Search"/>
+  <img src="https://img.shields.io/badge/PWA-Android%20%26%20iOS%20Ready-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile Ready"/>
+  <img src="https://img.shields.io/badge/Audio%20Engine-Web%20Audio%20API-a855f7?style=flat-square&logo=soundcharts&logoColor=white" alt="Audio API"/>
+  <img src="https://img.shields.io/badge/Security-256--Bit%20SSL-blue?style=flat-square&logo=letsencrypt&logoColor=white" alt="Security"/>
+  <img src="https://img.shields.io/badge/License-MIT-ec4899?style=flat-square&logo=open-source-initiative&logoColor=white" alt="MIT"/>
+</p>
+
+<!-- Animated Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" alt="line" />
+
+<br/>
 
 > *"Menempa ide di antara sunyi, merajut masa depan di balik baris kode & semesta logika."*
 
 <br/>
 
-[![Official Website](https://img.shields.io/badge/Official%20Hub-Live%20Portal-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mnaufalamna.github.io/mnaufala/)
-[![Universal Gateway](https://img.shields.io/badge/Bio%20Gateway-Bitly-f59e0b?style=for-the-badge&logo=bitly&logoColor=white)](https://bit.ly/m/MNaufalA)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@mnaufalamna-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mnaufalamna)
+<!-- Profile View Counter Badge -->
+<p align="center">
+  <a href="https://github.com/mnaufalaMNA">
+    <img src="https://komarev.com/ghpvc/?username=mnaufalaMNA&label=ECOSYSTEM+VISITORS&color=8b5cf6&style=flat-square" alt="Visitors Counter" />
+  </a>
+</p>
+
+<!-- Official Handles Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Handle-@mnaufala-1e1b4b?style=flat-square&logo=tag&logoColor=a855f7" alt="Handle 1"/>
+  <img src="https://img.shields.io/badge/Handle-@mnaufala__mna-1e1b4b?style=flat-square&logo=tag&logoColor=a855f7" alt="Handle 2"/>
+  <img src="https://img.shields.io/badge/Handle-mnaufalaMNA-1e1b4b?style=flat-square&logo=github&logoColor=a855f7" alt="Handle 3"/>
+  <img src="https://img.shields.io/badge/Handle-@oneberry.mnaufala-1e1b4b?style=flat-square&logo=tiktok&logoColor=a855f7" alt="Handle 4"/>
+</p>
+
+<br/>
+
+<!-- Ultra-Reliable GitHub Dynamic Activity Card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mnaufalaMNA&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideNums=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats" />
+</p>
 
 </div>
 
 ---
 
-### 🌐 Ekosistem & Jaringan Resmi Terverifikasi
-
-| Kategori | Platform | Tautan Akses Langsung |
-| :--- | :--- | :--- |
-| 🌐 **Portal Utama** | **Official Web Ecosystem** | [mnaufalamna.github.io/mnaufala](https://mnaufalamna.github.io/mnaufala/) |
-| ⚡ **Gerbang Bio** | **Bitly Universal Gateway** | [bit.ly/m/MNaufalA](https://bit.ly/m/MNaufalA) |
-| 💻 **Repositori** | **Ecosystem Hub Codebase** | [mnaufalaMNA/mnaufala](https://github.com/mnaufalaMNA/mnaufala) |
-| 🎥 **Video & Stream**| **YouTube Official Channel** | [@mnaufalamna](https://www.youtube.com/@mnaufalamna) |
-| 📸 **Foto & Cerita** | **Instagram Official** | [@mnaufala_mna](https://www.instagram.com/mnaufala_mna/) |
-| 🎵 **Video Pendek** | **TikTok Official** | [@oneberry.mnaufala](https://www.tiktok.com/@oneberry.mnaufala) |
-| 🐦 **Wawasan & Opini**| **X (Twitter) Official** | [@oneberry_mna](https://x.com/oneberry_mna) |
-| 🧵 **Diskusi Komunitas**| **Threads Meta** | [@mnaufala_mna](https://www.threads.net/@mnaufala_mna) |
-| 👥 **Sosial Media 1** | **Facebook Official Profile** | [facebook.com/share/1HdLijComv](https://facebook.com/share/1HdLijComv) |
-| 👥 **Sosial Media 2** | **Facebook Alternate Channel**| [facebook.com/share/19v4QgccfR](https://facebook.com/share/19v4QgccfR) |
-| 📑 **Google Portfolio**| **Google Sites Portfolio** | [sites.google.com/view/mnaufala/mnaufala](https://sites.google.com/view/mnaufala/mnaufala) |
-| 🏠 **Google Beranda** | **Google Sites Beranda** | [sites.google.com/view/mnaufalmna/beranda](https://sites.google.com/view/mnaufalmna/beranda) |
----
-
-### 💻 Stack Teknologi & Arsitektur Ekosistem
+## ⚡ Direktori Gerbang Resmi (Official Gateways Matrix)
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Hosting-222222?style=flat-square&logo=github&logoColor=white)
-![Web Audio API](https://img.shields.io/badge/Web%20Audio-Synthesizer-10b981?style=flat-square&logo=soundcharts&logoColor=white)
+| Kategori | Platform | Gateway / Identifier | Akses & Status |
+| :---: | :--- | :--- | :---: |
+| 🌐 **Core** | **Official Web Portal** | `mnaufalamna.github.io/mnaufala` | [![Akses Portal](https://img.shields.io/badge/Launch%20Portal-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mnaufalamna.github.io/mnaufala/) |
+| ⚡ **Core** | **Universal Bio Link** | `bit.ly/m/MNaufalA` | [![Buka Gateway](https://img.shields.io/badge/Open%20Gateway-f59e0b?style=for-the-badge&logo=linkfire&logoColor=white)](https://bit.ly/m/MNaufalA) |
+| 📺 **Media** | **YouTube Official** | `@mnaufalamna` | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mnaufalamna) |
+| 💻 **Dev** | **GitHub Master** | `mnaufalaMNA` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mnaufalaMNA) |
+| 📸 **Social**| **Instagram Official** | `@mnaufala_mna` | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mnaufala_mna?igsi=aWczZndpZzNxdzRu) |
+| 🎵 **Social**| **TikTok Channel** | `@oneberry.mnaufala` | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@oneberry.mnaufala?_r=1&_t=ZS-992G1oROUyY) |
+| 💬 **Social**| **Threads Meta** | `@mnaufala_mna` | [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@mnaufala_mna) |
+| 🐦 **Social**| **X (Twitter)** | `@oneberry_mna` | [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oneberry_mna) |
+| 👥 **Social**| **Facebook Profile (Main)** | `M Naufal Amrullah (Primary)` | [![Facebook 1](https://img.shields.io/badge/Facebook%201-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HdLiJComv/) |
+| 👥 **Social**| **Facebook Community (Alt)**| `M Naufal Amrullah (Alternate)` | [![Facebook 2](https://img.shields.io/badge/Facebook%202-0e7490?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19v4QgccfR/) |
+| 📂 **Sites** | **Google Sites Portfolio**| `sites.google.com/view/mnaufala` | [![Google Sites 1](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/mnaufala/mnaufala) |
+| 📂 **Sites** | **Google Sites Beranda**| `sites.google.com/view/mnaufalmna`| [![Google Sites 2](https://img.shields.io/badge/Beranda-6366F1?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/mnaufalmna/beranda) |
 
 </div>
 
 ---
 
+## 🚀 Ekosistem Teknologi & Arsitektur
+
 <div align="center">
-
-✨ *Diukir dengan dedikasi & gairah tanpa batas • Dari imajinasi menuju keabadian.*<br/>
-© 2026 **M Naufal Amrullah** • Seluruh Hak Cipta Dilindungi.
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,githubactions,git,pwa,svg,vscode" alt="Tech Stack Icons" />
 </div>
+
+<br/>
+
+- 🔄 **Live Hot-Reload & Zero-Friction Sync:** Pembaruan repositori GitHub otomatis tersinkronisasi ke browser dan aplikasi Android APK dalam hitungan detik tanpa perlu mengunduh ulang APK.
+- 🎵 **Procedural Web Audio Synthesizer:** Generator musik relaksasi berbasis *Web Audio API* sintetis tanpa file MP3 (Anime Chords, Lo-Fi Chill, Cyberpunk Pulse, Zen Garden, Deep Space Ambient, 8-Bit Retro Chiptune).
+- 🌸 **Canvas Visual Particle Engine (60 FPS):** Rendering dinamis untuk 5 tema partikel interaktif (Kelopak Sakura, Bintang Kosmik, Hujan Matriks Hijau, Gelembung Neon, dan Salju Kristal).
+- 🌍 **Multi-Language Localization Engine (13 Bahasa):** Terjemahan instan multi-bahasa meliputi Bahasa Indonesia, Inggris, Jepang, Arab, Spanyol, Prancis, Jerman, Korea, Mandarin, Rusia, Portugis, Italia, dan Turki.
+- 🔍 **Search Engine Optimization (SEO 100% Score):** Terverifikasi resmi Google Search Console, Open Graph, Twitter Cards, Schema.org JSON-LD, Sitemap XML, dan Robots.txt.
+- 📱 **Native Progressive Web App (PWA):** Mendukung instalasi layar penuh di Android, iOS, Windows, dan macOS dengan dukungan `assetlinks.json`.
+
+---
+
+## 🛡️ Hak Cipta & Lisensi Resmi
+
+Seluruh kode sumber, arsitektur sistem, dan aset digital ekosistem ini dilindungi di bawah lisensi terbuka resmi **[MIT License](LICENSE)**.
+
+```text
+Copyright (c) 2026 M Naufal Amrullah (@mnaufala / @mnaufala_mna / mnaufalaMNA)
+Hak Cipta Dilindungi Undang-Undang.
